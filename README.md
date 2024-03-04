@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MalihaIlyas/MalihaIlyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Maliha Ilyas. Student of BS Computer science studying in Ripha Uni. 
+I have interest in: 
+  1. Mobile app development
+  2. Web development
+Below are the technologies I have worked on:
+  1. React JS
+  2. React Native
+  3. HTML
+  4. CSS
+  5. Node JS
+  6. .Net
+  7. C#
+  8. C++
+  9. SQL
